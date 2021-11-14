@@ -19,7 +19,7 @@ cash out. I did not know what I was doing.
 
 In 2020, a good friend of mine recommended me a book by [Li Lu](https://en.wikipedia.org/wiki/Li_Lu) called
 Civilization, Modernization, Value Investing and China. I was blown away by the book's intelectual
-richness in reasoning why the world runs like it is and why we're so lucky to be alive in this era.
+richness in reasoning why the world runs like it does and why we're so lucky to be alive in this era.
 I began to think about what's long-term, and how compounding can make substantial difference even
 with [small starting points](https://docs.google.com/spreadsheets/d/1jKR0gPf5YsTZIIwL-7niXdK0htSfz6p_kGFm7EZXO3g/edit?usp=sharing).
 2020 summer, I bagen investing again. This time for each company equity I purchase, I'll try
@@ -31,9 +31,29 @@ Perhaps the most important question here is, do I know what I am doing? Well let
 years to find out! Would you join me? 
 
 ## What is this?
+This is fund runs like a DAF (Donor-Advised Fund). When a doner decides to donate and makes a 
+donation, they agree that the fund will then take over the donation and possibly convert it
+into investment assets. The strategy and execution are managed by me. 
+
+When the investments make profit, once a year, the fund will decide to contribute what portion
+of the profit to do the below activities. Again once a year, all the donors will be given
+the options to decide what to do with their portion of the profit (free of charge)
+1. Withdraw, once receiving the profit,
+the donors decide how to spend the money on any charity or any activities they think is good.
+I trust everyone to act in good faith.
+1. Not withdraw, vote on a list to decide which charity institutions to contribute the funds to.
+List curated by me.
+1. Not withdraww, nothing happens.
+1. Leave the decision to me.
 
 ## What is the strategy
+
+
 ## Fund Performance
+Here is a screenshot of my personal fund's performance since inception. However one should not
+regard past performance as predictions for the future. 
 ## What is the deal
 ## How to view your donations' performance
+TODO
 ## How to donate
+You know who I am and how to find me.
