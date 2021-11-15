@@ -71,7 +71,7 @@ TODO
 Here is a screenshot of my personal fund's performance since inception. One should not
 regard past performance as predictions for the future.
 
-<figure><img src="/figures/performance.png" width="750"><figcaption>Performance</figcaption></figure>
+<img src="/figures/performance.png" width="750">
 
 [Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=interactive) to view the interactive diagram. 
 ## What is the deal
