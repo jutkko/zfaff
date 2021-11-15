@@ -46,7 +46,7 @@ List curated by me.
 1. Not withdraww, nothing happens.
 1. Leave the decision to me.
 
-If possible, I would like to have this fund to run for many centuries, like the
+I would like to have this fund to run for many centuries, like the
 [Nobel Foundation](https://en.wikipedia.org/wiki/Nobel_Foundation).
 
 ## What is the strategy
