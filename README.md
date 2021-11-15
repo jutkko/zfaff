@@ -17,11 +17,11 @@ piont valuable. And hence I purchased all the options I could when I left my fir
 2 years later it went public and then taken private. My shares grew by almost 80% and I was force to
 cash out. I did not know what I was doing.
 
-In 2020, a good friend of mine recommended me a book by [Li Lu](https://en.wikipedia.org/wiki/Li_Lu) called
-Civilization, Modernization, Value Investing and China. I was blown away by the book's intelectual
-richness in reasoning why the world runs like it does and why we're so lucky to be alive in this era.
-I began to think about what's long-term, and how compounding can make substantial difference even
-with [small starting points](https://docs.google.com/spreadsheets/d/1jKR0gPf5YsTZIIwL-7niXdK0htSfz6p_kGFm7EZXO3g/edit?usp=sharing).
+In 2020, a good friend of mine recommended me a book by [Li Lu](https://en.wikipedia.org/wiki/Li_Lu)
+called Civilization, Modernization, Value Investing and China. I was blown away by the book's
+intelectual richness in reasoning why the world runs like it does and why we're so lucky to be alive
+in this era. I began to think about what's long-term, and how compounding can make substantial 
+difference even with [small starting points](https://docs.google.com/spreadsheets/d/1jKR0gPf5YsTZIIwL-7niXdK0htSfz6p_kGFm7EZXO3g/edit?usp=sharing).
 2020 summer, I bagen investing again. This time for each company equity I purchase, I'll try
 my best to learn, feel and reason what does the future hold for it. Is it the global movement
 to an electric future? Is it the explosion of new and young innovations from Chinese IT companies?
@@ -33,7 +33,7 @@ years to find out! Would you join me?
 ## What is this?
 This is fund runs like a DAF (Donor-Advised Fund). When a doner decides to donate and makes a 
 donation, they agree that the fund will then take over the donation and possibly convert it
-into investment assets. The strategy and execution are managed by me. 
+into investment assets. The strategy and execution are managed by me.
 
 When the investments make profit, once a year, the fund will decide to contribute what portion
 of the profit to do the below activities. Again once a year, all the donors will be given
@@ -46,12 +46,21 @@ List curated by me.
 1. Not withdraww, nothing happens.
 1. Leave the decision to me.
 
-## What is the strategy
+If possible, I would like to have this fund to run for many centuries, like the
+[Nobel Foundation](https://en.wikipedia.org/wiki/Nobel_Foundation).
 
+## What is the strategy
+Provided the complex and volatile movements of the market, I focus on the companies' development
+for the next 5-10 years. I focus on good leadership in companies which I believe will deliver
+consistent reasonable decision making and stable execution. The investments this fund makes will
+likely fall into (not limited to)
+1. The transition to an electric future.
+1. Companies who benefit from the booming of China, a more integrated with the whole world China.
+1. Next-gen payment system in the world, paying peers, internation transfers and foreign exchange.
 
 ## Fund Performance
 Here is a screenshot of my personal fund's performance since inception. However one should not
-regard past performance as predictions for the future. 
+regard past performance as predictions for the future.
 ## What is the deal
 ## How to view your donations' performance
 TODO
