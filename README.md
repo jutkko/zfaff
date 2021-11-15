@@ -53,11 +53,13 @@ I would like to have this fund to run for many centuries, like the
 Although this is donation and charity focused fund, I offer redemptions of the donations. Upon
 a withdrawal request, if
 1. There is a loss in the donation, everything is repaid.
-1. The the annualised return exceeds 6%, one can take 75% of the excess amount and 25% management
+1. The annualised return exceeds 6%, one can take 75% of the excess amount and 25% management
 fee will be charged by the fund.
 
-Note one can only withdraw 100% of their contribution plus profit. If one decides to donate
-any portion of the 75% of the profit, the fund will match the 1/3 of the donation.
+Note upon withdrawal one can only withdraw 100% of their principal plus profit. If one decides
+to donate any portion of the 75% of the profit, the fund will match the 1/3 of the donation.
+e.g., if the profit is $100, the donor gets $75 and the fund get $25. The donor decides to donate
+$15 the fund will match 1/3 of it so donates $5.
 
 ## What is the strategy
 Provided the complex and volatile movements of the market, I focus on the companies' development
