@@ -50,7 +50,14 @@ I would like to have this fund to run for many centuries, like the
 [Nobel Foundation](https://en.wikipedia.org/wiki/Nobel_Foundation).
 
 ### Redemption
-Although this is donation and charity focused fund, I offer redemptions of the donations. 
+Although this is donation and charity focused fund, I offer redemptions of the donations. Upon
+a withdrawal request, if
+1. There is a loss in the donation, everything is repaid.
+1. The the annualised return exceeds 6%
+    - One can take 75% of the excess amount and 25% management fee will be charged by the fund
+
+Note one can only withdraw 100% of their contribution plus profit. If one decides to donate
+any portion of the 75% of the profit, the fund will match the 1/3 of the donation.
 
 ## What is the strategy
 Provided the complex and volatile movements of the market, I focus on the companies' development
