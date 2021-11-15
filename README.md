@@ -40,14 +40,17 @@ of the profit to do the below activities. Again once a year, all the donors will
 the options to decide what to do with their portion of the profit (free of charge)
 
 1. Withdraw, once receiving the profit, the donors decide how to spend the money on any charity
-or any activities they think is good. I trust everyone to act in good faith.
+or any activities they think are good. I trust everyone to act in good faith.
 1. Not withdraw, vote on a list to decide which charity institutions to contribute the funds to.
-List curated by me.
+Donors agree to abide by the results. List curated by me.
 1. Not withdraw, nothing happens.
 1. Leave the decision to me.
 
 I would like to have this fund to run for many centuries, like the
 [Nobel Foundation](https://en.wikipedia.org/wiki/Nobel_Foundation).
+
+### Redemption
+Although this is donation and charity focused fund, I offer redemptions of the donations. 
 
 ## What is the strategy
 Provided the complex and volatile movements of the market, I focus on the companies' development
@@ -74,14 +77,35 @@ regard past performance as predictions for the future.
 
 <img src="/figures/performance.png" width="750">
 
-[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=interactive) to view the interactive performance diagram. 
+[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=image) to view the interactive performance diagram. 
 
 <img src="/figures/portfolio.png" width="750">
 
-[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=442354662&format=interactive) to view the interactive portfolio diagram. 
+[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=442354662&format=image) to view the interactive portfolio diagram. 
 
 ## What is the deal
+TODO
 ## How to view your donations' performance
 TODO
+
 ## How to donate
-You know who I am and how to find me.
+Fill [this form](https://forms.gle/aAX4nPRNaGpEhBny9) please, then please let me know. You know
+how to find me. Before you make a donation, please have a video call with me to verify who you're
+dealing with to avoid unnecessary trouble.
+
+## FAQ 
+**Q: Who can donate/contribute?**
+Only my family members and friends.
+
+**Q: Why is Zhou doing this?**
+TODO
+
+**Q:Can there be new charity options, I know someone who needs help?**
+Just let me know. This is possible.
+
+**Q:Is this legal?**
+This fund is an [investment club](https://en.wikipedia.org/wiki/Investment_club) operated like
+a mini hedge fund. The total number of donors should not exceed 100.
+
+**Q:Where to find the most updated information?**
+All the information should be here, this document will be constantly updated.
