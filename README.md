@@ -67,13 +67,18 @@ hold for longer. For now, the majority of the investment should go into equity m
 ### Individual stocks analysis section
 TODO
 
-## Fund Performance
+## Fund Performance and current portfolio
 Here is a screenshot of my personal fund's performance since inception. One should not
 regard past performance as predictions for the future.
 
 <img src="/figures/performance.png" width="750">
 
-[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=interactive) to view the interactive diagram. 
+[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=interactive) to view the interactive performance diagram. 
+
+<img src="/figures/portfolio.png" width="750">
+
+[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=442354662&format=interactive) to view the interactive portfolio diagram. 
+
 ## What is the deal
 ## How to view your donations' performance
 TODO
