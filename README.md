@@ -55,9 +55,9 @@ consistent reasonable decision making and stable execution. The investments this
 likely fall into (not limited to)
 
 1. The transition to an electric future. This can be broken down to
-  1. Electic vehicles and automous driving
-  1. Power storage and power generation from the sun
-  1. Electricity consumption growing by a factor of 10
+  - Electic vehicles and automous driving
+  - Power storage and power generation from the sun
+  - Electricity consumption growing by a factor of 10
 1. Companies who benefit from the booming of China, a more integrated with the whole world China.
 1. Next-gen payment system in the world, paying peers, internation transfers and foreign exchange.
 
