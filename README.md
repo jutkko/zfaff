@@ -52,7 +52,8 @@ I would like to have this fund to run for many centuries, like the
 ### Redemption
 Although this is donation and charity focused fund, I offer redemptions of the donations. Upon
 a withdrawal request, if
-1. There is a loss in the donation, everything is repaid.
+1. There is a loss in the donation or the annualised return does not exceed 6%, everything is
+repaid.
 1. The annualised return exceeds 6%, one can take 75% of the excess amount and 25% management
 fee will be charged by the fund.
 
