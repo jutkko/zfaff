@@ -38,12 +38,13 @@ assets. The strategy and execution are managed by me.
 When the investments make profit, once a year, the fund will decide to contribute what portion
 of the profit to do the below activities. Again once a year, all the donors will be given
 the options to decide what to do with their portion of the profit (free of charge)
-    1. Withdraw, once receiving the profit, the donors decide how to spend the money on any charity
+
+1. Withdraw, once receiving the profit, the donors decide how to spend the money on any charity
 or any activities they think is good. I trust everyone to act in good faith.
-    1. Not withdraw, vote on a list to decide which charity institutions to contribute the funds to.
+1. Not withdraw, vote on a list to decide which charity institutions to contribute the funds to.
 List curated by me.
-    1. Not withdraw, nothing happens.
-    1. Leave the decision to me.
+1. Not withdraw, nothing happens.
+1. Leave the decision to me.
 
 I would like to have this fund to run for many centuries, like the
 [Nobel Foundation](https://en.wikipedia.org/wiki/Nobel_Foundation).
@@ -54,12 +55,12 @@ for the next 5-10 years. I focus on good leadership in companies which I believe
 consistent reasonable decision making and stable execution. The investments this fund makes will
 likely fall into (not limited to)
 
-    1. The transition to an electric future. This can be broken down to
-        - Electic vehicles and automous driving
-        - Power storage and power generation from the sun
-        - Electricity consumption growing by a factor of 10
-    1. Companies who benefit from the booming of China, a more integrated with the whole world China.
-    1. Next-gen payment system in the world, paying peers, internation transfers and foreign exchange.
+1. The transition to an electric future. This can be broken down to
+    - Electic vehicles and automous driving
+    - Power storage and power generation from the sun
+    - Electricity consumption growing by a factor of 10
+1. Companies who benefit from the booming of China, a more integrated with the whole world China.
+1. Next-gen payment system in the world, paying peers, internation transfers and foreign exchange.
 
 I will hold each investment for at least few years, if possible I will continue investing and
 hold for longer. For now, the majority of the investment should go into equity market.
