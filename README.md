@@ -8,7 +8,7 @@ There was almost 0 month when I spent all my salary. So I could save up some cas
 few years of my career. However I did not know what to do with it. I vaguely know that it's no
 good to hold them as cash. The first ever stock I bought was ARM. I spent 200 pounds to exchange
 some "virtual" shares of a company that I did not know what it does. Again being lucky ARM was taken
-private by SoftBank and my shared grew in price! I made roughly 40 pounds. I did not know what I
+private by SoftBank and my shared grew in price! I made 40 pounds. I did not know what I
 was doing. 
 
 Almost during the same time after starting my first job, I was told that I received some options. 
@@ -32,18 +32,17 @@ years to find out! Would you join me?
 
 ## What is this?
 This is fund runs like a DAF (Donor-Advised Fund). When a doner decides to donate and makes a 
-donation, they agree that the fund will then take over the donation and possibly convert it
-into investment assets. The strategy and execution are managed by me.
+donation, they agree that the fund will then take over the donation and convert it into investment
+assets. The strategy and execution are managed by me.
 
 When the investments make profit, once a year, the fund will decide to contribute what portion
 of the profit to do the below activities. Again once a year, all the donors will be given
 the options to decide what to do with their portion of the profit (free of charge)
-1. Withdraw, once receiving the profit,
-the donors decide how to spend the money on any charity or any activities they think is good.
-I trust everyone to act in good faith.
+1. Withdraw, once receiving the profit, the donors decide how to spend the money on any charity
+or any activities they think is good. I trust everyone to act in good faith.
 1. Not withdraw, vote on a list to decide which charity institutions to contribute the funds to.
 List curated by me.
-1. Not withdraww, nothing happens.
+1. Not withdraw, nothing happens.
 1. Leave the decision to me.
 
 I would like to have this fund to run for many centuries, like the
@@ -54,13 +53,25 @@ Provided the complex and volatile movements of the market, I focus on the compan
 for the next 5-10 years. I focus on good leadership in companies which I believe will deliver
 consistent reasonable decision making and stable execution. The investments this fund makes will
 likely fall into (not limited to)
-1. The transition to an electric future.
+
+1. The transition to an electric future. This can be broken down to
+  1. Electic vehicles and automous driving
+  1. Power storage and power generation from the sun
+  1. Electricity consumption growing by a factor of 10
 1. Companies who benefit from the booming of China, a more integrated with the whole world China.
 1. Next-gen payment system in the world, paying peers, internation transfers and foreign exchange.
 
+I will hold each investment for at least few years, if possible I will continue investing and
+hold for longer. For now, the majority of the investment should go into equity market.
+
+### Individual stocks analysis section
+TODO
+
 ## Fund Performance
-Here is a screenshot of my personal fund's performance since inception. However one should not
+Here is a screenshot of my personal fund's performance since inception. One should not
 regard past performance as predictions for the future.
+
+<figure><img src="/figures/performance.png" width="750"><figcaption>Performance</figcaption></figure>
 ## What is the deal
 ## How to view your donations' performance
 TODO
