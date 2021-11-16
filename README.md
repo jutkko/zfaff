@@ -114,17 +114,22 @@ dealing with to avoid unnecessary trouble.
 
 ## FAQ 
 **Q: Who can donate/contribute?**
+
 Only my family members and friends.
 
 **Q: Why is Zhou doing this?**
-TODO
+
+I believe with the correct 
 
 **Q:Can there be new charity options, I know someone who needs help?**
+
 Just let me know. This is possible.
 
 **Q:Is this legal?**
+
 This fund is an [investment club](https://en.wikipedia.org/wiki/Investment_club) operated like
 a mini hedge fund. The total number of donors should not exceed 100.
 
 **Q:Where to find the most updated information?**
+
 All the information should be here, this document will be constantly updated.
