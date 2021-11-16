@@ -105,7 +105,7 @@ regard past performance as predictions for the future.
 1. Maximise the amount of help one can generate by legerating long-term compouding technique
 
 ## How to view your donation's performance
-TODO
+[List of donors](donors/list.md)
 
 ## How to donate
 Fill [this form](https://forms.gle/vPbE3BKBwkyvwX428) please, then let me know. You know
@@ -124,20 +124,20 @@ with the correct mindset and strategies, the amount of wealth one can accumulate
 astonishing. I don't expect to spend most of the capital when I am older. I could donate the
 money all at once, I could also start making a small influence now. I choose the latter.
 
-**Q:Can there be new charity options, I know someone who needs help?**
+**Q: Can there be new charity options, I know someone who needs help?**
 
 Just let me know. This is possible.
 
-**Q:Is this legal?**
+**Q: Is this legal?**
 
 This fund is an [investment club](https://en.wikipedia.org/wiki/Investment_club) operated like
 a mini hedge fund. The total number of donors should not exceed 100.
 
-**Q:Where to find the most updated information?**
+**Q: Where to find the most updated information?**
 
 All the information should be here, this document will be constantly updated.
 
-**Q:What's the difference between making a donation directly and making a donation to this fund?**
+**Q: What's the difference between making a donation directly and making a donation to this fund?**
 
 Assuming the fund can preserve 15% ROI and we donate 50% of the profit. Please see the below
 table
@@ -157,6 +157,6 @@ table
 | 10    | $0                            | $144                      |
 | Total | $1000                         | $1061                     |
 
-The influence does seem similar. Well keep in mind the fund still has $2016 in the account! And this can
-continue running for many years to come. Obviously anothe difference is immediate impact vs.
-long-term impact.
+The influence does seem similar. Well keep in mind the fund still has $2016 in the account! And
+this can continue running for many years to come. Obviously anothe difference is immediate impact
+vs. long-term impact.
