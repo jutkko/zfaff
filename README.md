@@ -108,7 +108,7 @@ regard past performance as predictions for the future.
 TODO
 
 ## How to donate
-Fill [this form](https://forms.gle/vPbE3BKBwkyvwX428) please, then please let me know. You know
+Fill [this form](https://forms.gle/vPbE3BKBwkyvwX428) please, then let me know. You know
 how to find me. Before you make a donation, please have a video call with me to verify who you're
 dealing with to avoid unnecessary trouble.
 
