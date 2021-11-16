@@ -162,5 +162,20 @@ table
 | Content Cell  | Content Cell  | 0 |
 | Content Cell  | Content Cell  | 0 |
 
+| Year  | $1000 dollars donated at once | $1000 donated to the fund |
+|-------|-------------------------------|---------------------------|
+| 0     | $1000                         |                           |
+| 1     | $0                            |                           |
+| 2     | $0                            |                           |
+| 3     | $0                            |                           |
+| 4     | $0                            |                           |
+| 5     | $0                            |                           |
+| 6     | $0                            |                           |
+| 7     | $0                            |                           |
+| 8     | $0                            |                           |
+| 9     | $0                            |                           |
+| 10    | $0                            |                           |
+| Total | $1000                         |                           |
+
 The influence does seem similar. Well keep in mind the fund still has $2016 in the account! And this can
 continue running for many years to come. 
