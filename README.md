@@ -142,8 +142,8 @@ All the information should be here, this document will be constantly updated.
 Assuming the fund can preserve 15% ROI and we donate 50% of the profit. Please see the below
 table
 
-| Year | Contribution when $1000 dollars donated at once | Contribution when $1000 donated to the fund |
-| ----- | ----- |
+| Year | $1000 dollars donated at once | $1000 donated to the fund |
+| --- | --- |
 | 0 | $1000 | 0 |
 | 1 | $0 | $75 |
 | 2 | $0 | $81 |
