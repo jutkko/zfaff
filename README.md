@@ -142,40 +142,21 @@ All the information should be here, this document will be constantly updated.
 Assuming the fund can preserve 15% ROI and we donate 50% of the profit. Please see the below
 table
 
-| Year | $1000 dollars donated at once | $1000 donated to the fund |
-| --- | --- |
-| 0 | $1000 | 0 |
-| 1 | $0 | $75 |
-| 2 | $0 | $81 |
-| 3 | $0 | $86 |
-| 4 | $0 | $93 |
-| 5 | $0 | $100 |
-| 6 | $0 | $108 |
-| 7 | $0 | $116 |
-| 8 | $0 | $124 |
-| 9 | $0 | $134 |
-| 10 | $0 | $144 |
-| Total sum | $1000 | $1061 |
-
-| First Header  | Second Header | $1000 donated to the fund |
-| ------------- | ------------- | 0 |
-| Content Cell  | Content Cell  | 0 |
-| Content Cell  | Content Cell  | 0 |
-
 | Year  | $1000 dollars donated at once | $1000 donated to the fund |
 |-------|-------------------------------|---------------------------|
-| 0     | $1000                         |                           |
-| 1     | $0                            |                           |
-| 2     | $0                            |                           |
-| 3     | $0                            |                           |
-| 4     | $0                            |                           |
-| 5     | $0                            |                           |
-| 6     | $0                            |                           |
-| 7     | $0                            |                           |
-| 8     | $0                            |                           |
-| 9     | $0                            |                           |
-| 10    | $0                            |                           |
-| Total | $1000                         |                           |
+| 0     | $1000                         | $0                        |
+| 1     | $0                            | $75                       |
+| 2     | $0                            | $81                       |
+| 3     | $0                            | $86                       |
+| 4     | $0                            | $93                       |
+| 5     | $0                            | $100                      |
+| 6     | $0                            | $108                      |
+| 7     | $0                            | $116                      |
+| 8     | $0                            | $124                      |
+| 9     | $0                            | $134                      |
+| 10    | $0                            | $144                      |
+| Total | $1000                         | $1061                     |
 
 The influence does seem similar. Well keep in mind the fund still has $2016 in the account! And this can
-continue running for many years to come. 
+continue running for many years to come. Obviously anothe difference is immediate impact vs.
+long-term impact.
