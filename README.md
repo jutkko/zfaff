@@ -53,7 +53,7 @@ I would like to have this fund to run for many centuries, like the
 Although this is donation and charity focused fund, I offer redemptions of the donations. Upon
 a withdrawal request, if
 1. There is a loss in the donation or the annualised return does not exceed 6%, everything is
-repaid.
+repaid. e.g., if one donated $100, and it becomes $90, one will get $90 in full.
 1. The annualised return exceeds 6%, one can take 75% of the excess amount and 25% management
 fee will be charged by the fund.
 
@@ -94,7 +94,14 @@ regard past performance as predictions for the future.
 [Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=442354662&format=image) to view up to date portfolio diagram. 
 
 ## What is the deal
-TODO
+### Deal for you
+1. You get to choose what happens when your donation makes profit
+1. You can influence who the fund should help
+1. You get to see how the fund is doing, I will send out investor letters frequently
+
+### Deal for me
+
+
 ## How to view your donations' performance
 TODO
 
