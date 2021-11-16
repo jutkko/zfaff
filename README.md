@@ -35,7 +35,7 @@ This is fund runs like a DAF (Donor-Advised Fund). When a doner decides to donat
 donation, they agree that the fund will then take over the donation and convert it into investment
 assets. The strategy and execution are managed by me.
 
-When the investments make profit, once a year, the fund will decide to contribute what portion
+When the investments make a profit, once a year, the fund will decide to contribute what portion
 of the profit to do the below activities. Again once a year, all the donors will be given
 the options to decide what to do with their portion of the profit (free of charge)
 
@@ -95,18 +95,20 @@ regard past performance as predictions for the future.
 
 ## What is the deal
 ### Deal for you
-1. You get to choose what happens when your donation makes profit
+1. You get to choose what happens when your donation makes a profit
 1. You can influence who the fund should help
 1. You get to see how the fund is doing, I will send out investor letters frequently
 
 ### Deal for me
-
+1. Ownership of the fund, staying in touch with family and friends for a good cause
+1. Continue to practice and learn about investing
+1. Maximise the amount of help one can generate by legerating long-term compouding technique
 
 ## How to view your donations' performance
 TODO
 
 ## How to donate
-Fill [this form](https://forms.gle/aAX4nPRNaGpEhBny9) please, then please let me know. You know
+Fill [this form](https://forms.gle/vPbE3BKBwkyvwX428) please, then please let me know. You know
 how to find me. Before you make a donation, please have a video call with me to verify who you're
 dealing with to avoid unnecessary trouble.
 
