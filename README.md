@@ -104,7 +104,7 @@ regard past performance as predictions for the future.
 1. Continue to practice and learn about investing
 1. Maximise the amount of help one can generate by legerating long-term compouding technique
 
-## How to view your donations' performance
+## How to view your donation's performance
 TODO
 
 ## How to donate
@@ -119,7 +119,10 @@ Only my family members and friends.
 
 **Q: Why is Zhou doing this?**
 
-I believe with the correct 
+I believe in the power of compounding. Even during a human being's relatively short lifespan,
+with the correct mindset and strategies, the amount of wealth one can accumulate will be
+astonishing. I don't expect to spend most of the capital when I am older. I could donate the
+money all at once, I could also start making a small influence now. I choose the latter.
 
 **Q:Can there be new charity options, I know someone who needs help?**
 
