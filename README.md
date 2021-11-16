@@ -155,4 +155,7 @@ table
 | 8 | $0 | $124 |
 | 9 | $0 | $134 |
 | 10 | $0 | $144 |
-| Total sum | $1000 |  |
+| Total sum | $1000 | $1061 |
+
+The influence does seem similar. Well keep in mind the fund still has $2016 in the account! And this can
+continue running for many years to come. 
