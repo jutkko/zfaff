@@ -157,10 +157,10 @@ table
 | 10 | $0 | $144 |
 | Total sum | $1000 | $1061 |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  | Second Header | $1000 donated to the fund |
+| ------------- | ------------- | 0 |
+| Content Cell  | Content Cell  | 0 |
+| Content Cell  | Content Cell  | 0 |
 
 The influence does seem similar. Well keep in mind the fund still has $2016 in the account! And this can
 continue running for many years to come. 
