@@ -59,7 +59,7 @@ fee will be charged by the fund.
 
 Note upon withdrawal one can only withdraw 100% of their principal plus profit. If one decides
 to donate any portion of the 75% of the profit, the fund will match the 1/3 of the donation.
-e.g., if the profit is $100, the donor gets $75 and the fund get $25. The donor decides to donate
+e.g., if the profit is $100, the donor gets $75 and the fund gets $25. The donor decides to donate
 $15 the fund will match 1/3 of it so donates $5.
 
 ## What is the strategy
@@ -69,7 +69,7 @@ consistent reasonable decision making and stable execution. The investments this
 likely fall into (not limited to)
 
 1. The transition to an electric future. This can be broken down to
-    - Electic vehicles and automous driving
+    - Electric vehicles and autonomous driving
     - Power storage and power generation from the sun
     - Electricity consumption growing by a factor of 10
 1. Companies who benefit from the booming of China, a more integrated with the whole world China.
@@ -82,7 +82,7 @@ hold for longer. For now, the majority of the investment should go into equity m
 TODO
 
 ## Fund Performance and current portfolio
-Here is a screenshot of my personal fund's performance since inception. One should not
+Here are some screenshots of my personal fund's performance since inception. However, one should not
 regard past performance as predictions for the future.
 
 <img src="/figures/performance.png" width="750">
@@ -95,14 +95,15 @@ regard past performance as predictions for the future.
 
 ## What is the deal
 ### Deal for you
-1. You get to choose what happens when your donation makes a profit
-1. You can influence who the fund should help
+1. You get to choose what happens when your donation makes a profit. You can influence who the fund
+should help
+1. You practice and learn about long-term investing
 1. You get to see how the fund is doing, I will send out investor letters frequently
 
 ### Deal for me
 1. Ownership of the fund, staying in touch with family and friends for a good cause
-1. Continue to practice and learn about investing
-1. Maximise the amount of help one can generate by legerating long-term compouding technique
+1. Continue to practice and learn about long-term investing
+1. Maximise the amount of help one can generate by leveraging long-term compouding technique
 
 ## How to view your donation's performance
 [List of donors](donors/list.md)
@@ -142,21 +143,22 @@ All the information should be here, this document will be constantly updated.
 Assuming the fund can preserve 15% ROI and we donate 50% of the profit. Please see the below
 table
 
-| Year  | $1000 dollars donated at once | $1000 donated to the fund |
-|-------|-------------------------------|---------------------------|
-| 0     | $1000                         | $0                        |
-| 1     | $0                            | $75                       |
-| 2     | $0                            | $81                       |
-| 3     | $0                            | $86                       |
-| 4     | $0                            | $93                       |
-| 5     | $0                            | $100                      |
-| 6     | $0                            | $108                      |
-| 7     | $0                            | $116                      |
-| 8     | $0                            | $124                      |
-| 9     | $0                            | $134                      |
-| 10    | $0                            | $144                      |
-| Total | $1000                         | $1061                     |
+| Year  | $1000 donated at once   | $1000 donated to the fund (left in the fund after donation) |
+|-------|-------------------------|---------------------------|
+| 0     | $1000                   | $0 ($1000)                |
+| 1     | $0                      | $75 ($1075)               |
+| 2     | $0                      | $81 ($1156)               |
+| 3     | $0                      | $86 ($1242)               |
+| 4     | $0                      | $93 ($1335)               |
+| 5     | $0                      | $100 ($1436)              |
+| 6     | $0                      | $108 ($1543)              |
+| 7     | $0                      | $116 ($1659)              |
+| 8     | $0                      | $124 ($1783)              |
+| 9     | $0                      | $134 ($1917)              |
+| 10    | $0                      | $144 ($2061)              |
+| Total | $1000                   | $1061                     |
 
-The influence does seem similar. Well keep in mind the fund still has $2016 in the account! And
-this can continue running for many years to come. Obviously anothe difference is immediate impact
-vs. long-term impact.
+The influence does seem similar. Let's keep in mind the fund still has $2016 in the account! And
+this can continue running for many years to come. 
+
+Obviously another difference is immediate impact vs. long-term impact.
