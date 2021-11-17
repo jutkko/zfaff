@@ -162,3 +162,7 @@ The influence does seem similar. Let's keep in mind the fund still has $2016 in 
 this can continue running for many years to come. 
 
 Obviously another difference is immediate impact vs. long-term impact.
+
+## Feedback
+Last but not least, if you have any feedback, fill [this form](https://forms.gle/jwKNXd3T3QGZP4kf7)
+please.
