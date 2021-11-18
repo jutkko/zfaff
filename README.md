@@ -8,7 +8,7 @@ There was almost 0 month when I spent all my salary. So I could save up some cas
 few years of my career. However I did not know what to do with it. I vaguely know that it's no
 good to hold them as cash. The first ever stock I bought was ARM. I spent 200 pounds to exchange
 some "virtual" shares of a company that I did not know what it does. Again being lucky ARM was taken
-private by SoftBank and my shared grew in price! I made 40 pounds. I did not know what I
+private by SoftBank and my shares grew in price! I made 40 pounds. I did not know what I
 was doing. 
 
 Almost during the same time after starting my first job, I was told that I received some options. 
@@ -109,7 +109,7 @@ should help
 [List of donors](donors/list.md)
 
 ## How to donate
-Fill [this form](https://forms.gle/vPbE3BKBwkyvwX428) please, then let me know. You know
+Fill [this form](https://forms.gle/4gFpn5wTsn73FaR7A) please, then let me know. You know
 how to find me. Before you make a donation, please have a video call with me to verify who you're
 dealing with to avoid unnecessary trouble.
 
