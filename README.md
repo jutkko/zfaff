@@ -31,8 +31,9 @@ Perhaps the most important question here is, do I know what I am doing? Well let
 years to find out! Would you join me? 
 
 ## What is this? What are the fees?
-This is fund runs like a DAF (Donor-Advised Fund). When a doner decides to donate and makes a donation, they agree that the fund will then take over the donation and convert it into investment
-assets. The strategy and execution are managed by me.
+This is fund runs like a DAF (Donor-Advised Fund). When a doner decides to donate and makes a donation,
+they agree that the fund will then take over the donation and convert it into investment assets. The
+strategy and execution are managed by me.
 
 When the investments make a profit, once a year, the fund will decide to contribute what portion
 of the profit to do the below activities. Again once a year, all the donors will be given
@@ -51,8 +52,8 @@ I would like to have this fund to run for many centuries, like the
 ### Redemption
 Although this is donation and charity focused fund, I offer redemptions of the donations. Upon
 a withdrawal request, if
-1. There is a loss in the donation or the annualised return does not exceed 6%, everything is
-repaid. e.g., if one donated $100, and it becomes $90, one will get $90 in full.
+1. There is a loss in the donation or the annualised return does not exceed 6%, everything left
+in the fund is repaid. e.g., if one donated $100, and it becomes $90, one will get $90 in full.
 2. The annualised return exceeds 6%, one can take 75% of the excess amount and 25% management
 fee will be charged by the fund.
 
@@ -86,11 +87,13 @@ regard past performance as predictions for the future.
 
 <img src="/figures/performance.png" width="750">
 
-[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=image) to view up to date performance diagram. 
+[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=image)
+to view up to date performance diagram. 
 
 <img src="/figures/portfolio.png" width="750">
 
-[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=442354662&format=image) to view up to date portfolio diagram. 
+[Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=442354662&format=image)
+to view up to date portfolio diagram. 
 
 ## What is the deal
 ### Deal for you
@@ -162,6 +165,9 @@ this can continue running for many years to come.
 
 Obviously another difference is immediate impact vs. long-term impact.
 
+## Translator credits
+[Xian](https://github.com/xgong88)
+
 ## Feedback
 Last but not least, if you have any feedback, fill [this form](https://forms.gle/jwKNXd3T3QGZP4kf7)
 please.
@@ -171,7 +177,7 @@ please.
 
 当我开始认真开始思考“投资”这件事时，我意识到这并不是一朝一夕的易事，需要倾注长期的努力和付出。一方面我很幸运，父母给予了良好的经济支持，使我能够专注于学业并且获得体面的学位证书。另一方面我也在想，能为他人带来什么。在详细介绍本基金之前，我还想分享几个小故事。
 
-坦白说，我不是一个“月光族”。所以在工作的前几年时间里，我还能够攒下一些积蓄。虽然当时我还不确定可以做些什么，但隐约知道，将积蓄单纯作为现金持有并非良策。于是我选择了购买股票。第一支是 ARM，花了 200 英镑兑换了这家芯片设计公司的一些“虚拟”股票 (我在购买时甚至还未了解这家公司究竟做什么)。小幸运降临于我，ARM 被软银私有化，我的持股也相应增值。这笔交易中，一个懵懂的小伙子赚了 40 英镑。
+坦白说，我不是一个“月光族”。所以在工作的前几年时间里，我还能够攒下一些积蓄。虽然当时我还不确定可以做些什么，但隐约知道，将积蓄单纯作为现金持有并非良策。于是我选择了购买股票。第一支是 ARM，花了 200 英镑兑换了这家芯片设计公司的一些“虚拟”股票（我在购买时甚至还未了解这家公司究竟做什么）。小幸运降临于我，ARM 被软银私有化，我的持股也相应增值。这笔交易中，一个懵懂的小伙子赚了 40 英镑。
 
 第一份工作入职期间，我获悉得到了一些期权。再次面对这个令人头大的话题时，我的脑海中浮现出这个想法：它们在某种程度上会带来价值。因此当我离开这家公司时，我购买了能力范围内的所有期权。2年后，股票公开发行，而后私有化。我的持股价值增加了 80%，并不得不套现退出。这一次，我依然是“随波逐流”。
 
@@ -181,14 +187,14 @@ please.
 
 ## 基金介绍及相关费用
 
-本基金的运作方式类似于捐赠人建议基金 (简称 DAF)。当捐赠人决定并进行捐赠时，即表示他们同意本基金来接管捐赠并转为投资资产。具体策略和执行将由我本人 (余宙) 来管理。
+本基金的运作方式类似于捐赠人建议基金（简称 DAF）。当捐赠人决定并进行捐赠时，即表示他们同意本基金来接管捐赠并转为投资资产。具体策略和执行将由我本人（余宙）来管理。
 
-当投资获利后，基于一年一次的频率，本基金将决定拿出利润值的多少比例来执行下列行为。同样基于一年一次的频率，所有捐赠人都可以决定如何来使用他们的利润部分 (免费)。
+当投资获利后，基于一年一次的频率，本基金将决定拿出利润值的多少比例来执行下列行为。同样基于一年一次的频率，所有捐赠人都可以决定如何来使用他们的利润部分（免费）。
 
 1. 在获利后提取利润值，捐赠人可自行决定如何将金额用于任何心仪的慈善机构或公益事业。“行善”是一件非常美好的事情。
-2. 在获利后不提取利润值，但捐赠人可以在名单上投票，选出资金流向哪些慈善机构用于项目支持。选择此行为，即代表捐赠人同意遵守投票结果。名单将由我本人 (余宙) 进行策划管理。
+2. 在获利后不提取利润值，但捐赠人可以在名单上投票，选出资金流向哪些慈善机构用于项目支持。选择此行为，即代表捐赠人同意遵守投票结果。名单将由我本人（余宙）进行策划管理。
 3. 不提款，不做任何行为改变。
-4. 将决定交由我本人 (余宙)。
+4. 将决定交由我本人（余宙）。
 
 我的目标是，让本基金能够顺利运作并长期传承，如同 [诺贝尔基金会](https://en.wikipedia.org/wiki/Nobel_Foundation) 一样。
 
@@ -198,11 +204,11 @@ please.
 1. 如果捐赠额出现亏损或者年化收益率不超过 6%，剩余款项将全数偿还。比如，捐赠了 100 美元，如果最后金额是 90 美元，那么捐赠人将获得全数的 90 美元。
 2. 如果年化收益率超过了 6%，捐赠人可获得利润部分的 75%，剩余 25% 将用于本基金的管理费用。
 
-请注意：提取款项时，仅可全数提取本金和利润。如果捐赠人决定将所获利润 75% 中的特定比例用于慈善捐赠，本基金将配比捐赠该金额的三分之一。举例来说，如果利润值是 100 美元，如果捐赠人得到了 75 美元，基金得到了 25 美元 (管理费用)。当捐赠人决定捐赠 15 美元时，基金将配比三分之一进行捐赠，即 5 美元。
+请注意：提取款项时，仅可全数提取本金和利润。如果捐赠人决定将所获利润 75% 中的特定比例用于慈善捐赠，本基金将配比捐赠该金额的三分之一。举例来说，如果利润值是 100 美元，如果捐赠人得到了 75 美元，基金得到了 25 美元（管理费用）。当捐赠人决定捐赠 15 美元时，基金将配比三分之一进行捐赠，即 5 美元。
 
 ## 策略简介
 
-考虑到市场复杂多变的走势，我将关注公司未来 5-10 年的发展。其中，我会关注能够提供持续性合理决策和稳定执行的公司领导团队。本基金的投资方向可能属于 (但不限于) 下列领域：
+考虑到市场复杂多变的走势，我将关注公司未来 5-10 年的发展。其中，我会关注能够提供持续性合理决策和稳定执行的公司领导团队。本基金的投资方向可能属于（但不限于）下列领域：
 
 1. 电动化发展趋势，比如细分为：
     - 电动车辆和自动驾驶
@@ -219,7 +225,7 @@ TODO
 
 ## 基金业绩表现和当前投资组合
 
-下方是我个人基金的一些业绩数据图 (仅作参考，不作为未来趋势预测)。
+下方是我个人基金的一些业绩数据图（仅作参考，不作为未来趋势预测）。
 
 <img src="/figures/performance.png" width="750">
 
@@ -249,7 +255,7 @@ TODO
 
 ## 捐赠方式
 
-请 [填写表格](https://forms.gle/vPbE3BKBwkyvwX428) 并与我本人联系。(你应该知道我的联系方式:p) 注意：在进行捐赠前，为避免产生不必要的问题，请务必与我进行视频通话以确认对象。
+请 [填写表格](https://forms.gle/vPbE3BKBwkyvwX428) 并与我本人联系。（你应该知道我的联系方式:p）注意：在进行捐赠前，为避免产生不必要的问题，请务必与我进行视频通话以确认对象。
 
 ## 常见问题及解答 
 **问题：谁可以捐赠？**
@@ -277,7 +283,7 @@ TODO
 
 假设本基金可以保持 15% 的投资回报率，那么我们将捐出利润值的 50%。具体参见下表：
 
-| 年数  | 一次性捐赠 $1000   | 向本基金捐赠 $1000 (基金累计金额) |
+| 年数  | 一次性捐赠 $1000   | 向本基金捐赠 $1000（基金累计金额） |
 |-------|-------------------------|---------------------------|
 | 0     | $1000                   | $0 ($1000)                |
 | 1     | $0                      | $75 ($1075)               |
