@@ -30,9 +30,8 @@ Or is it the new way we spend, transfer and exchange money?
 Perhaps the most important question here is, do I know what I am doing? Well let's take the next 10-15
 years to find out! Would you join me? 
 
-## What is this?
-This is fund runs like a DAF (Donor-Advised Fund). When a donor decides to donate and makes a 
-donation, they agree that the fund will then take over the donation and convert it into investment
+## What is this? What are the fees?
+This is fund runs like a DAF (Donor-Advised Fund). When a doner decides to donate and makes a donation, they agree that the fund will then take over the donation and convert it into investment
 assets. The strategy and execution are managed by me.
 
 When the investments make a profit, once a year, the fund will decide to contribute what portion
@@ -109,7 +108,7 @@ should help
 [List of donors](donors/list.md)
 
 ## How to donate
-Fill [this form](https://forms.gle/vPbE3BKBwkyvwX428) please, then let me know. You know
+Fill [this form](https://forms.gle/4gFpn5wTsn73FaR7A) please, then let me know. You know
 how to find me. Before you make a donation, please have a video call with me to verify who you're
 dealing with to avoid unnecessary trouble.
 
@@ -180,7 +179,7 @@ please.
 
 到这里，最重要的一个问题浮出水面，就是：我是否对所做的事情心中有数？在接下来 10-15 年里，我们可以让事实说出答案。那么，你愿意加入吗？ 
 
-## 基金介绍
+## 基金介绍及相关费用
 
 本基金的运作方式类似于捐赠人建议基金 (简称 DAF)。当捐赠人决定并进行捐赠时，即表示他们同意本基金来接管捐赠并转为投资资产。具体策略和执行将由我本人 (余宙) 来管理。
 
@@ -210,7 +209,7 @@ please.
     - 电力储存和太阳能发电
     - 电能消耗增长 10 倍
 2. 从中国全球化市场蓬勃发展中获益的公司。
-3. 全球新一代支付系统、对点支付、国际转账和外汇。
+3. 全球新一代支付系统、点对点支付、国际转账和外汇。
 
 每项投资我将至少持有几年时间，如可能，我将继续投资并持有更长时间。目前，大部分投资将流入股票市场。
 
