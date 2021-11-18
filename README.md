@@ -30,7 +30,7 @@ Or is it the new way we spend, transfer and exchange money?
 Perhaps the most important question here is, do I know what I am doing? Well let's take the next 10-15
 years to find out! Would you join me? 
 
-## What is this?
+## What is this? What are the fees?
 This is fund runs like a DAF (Donor-Advised Fund). When a doner decides to donate and makes a 
 donation, they agree that the fund will then take over the donation and convert it into investment
 assets. The strategy and execution are managed by me.
