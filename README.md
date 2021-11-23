@@ -54,8 +54,8 @@ Although this is donation and charity focused fund, I offer redemptions of the d
 a withdrawal request, if
 1. There is a loss in the donation or the annualised return does not exceed 6%, everything left
 in the fund is repaid. e.g., if one donated $100, and it becomes $90, one will get $90 in full.
-2. The annualised return exceeds 6%, one can take 75% of the excess amount and 25% will be taken
-by the fund and donated to a selected charity institution.
+2. The annualised return exceeds 6%, one can take the principal and 75% of the excess amount
+and 25% will be taken by the fund and donated to a selected charity institution.
 
 ## What is the strategy
 Provided the complex and volatile movements of the market, I focus on the companies' development
@@ -197,7 +197,7 @@ please.
 
 虽然这是一个着力于捐赠和慈善的基金，我依然提供捐赠赎回的选项。发出提款请求后，按照不同情况分别执行：
 1. 如果捐赠额出现亏损或者年化收益率不超过 6%，剩余款项将全数偿还。比如，捐赠了 100 美元，如果最后金额是 90 美元，那么捐赠人将获得全数的 90 美元。
-2. 如果年化收益率超过了 6%，捐赠人可获得利润部分的 75%，剩余 25% 本基金会收取并捐给指定慈善机构。
+2. 如果年化收益率超过了 6%，捐赠人可获得本金加上利润部分的 75%，剩余 25% 本基金会收取并捐给指定慈善机构。
 
 ## 策略简介
 
