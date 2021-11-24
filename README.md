@@ -135,7 +135,8 @@ a mini hedge fund. The total number of donors should not exceed 100.
 
 **Q: Where to find the most updated information?**
 
-All the information should be here, this document will be constantly updated.
+All the information should be [here](https://github.com/jutkko/zfaff), this document will be
+constantly updated.
 
 **Q: What's the difference between making a donation directly and making a donation to this fund?**
 
@@ -272,7 +273,7 @@ TODO
 
 **问题：如何查找最新信息？**
 
-你可在此了解全部信息。本文档将持续更新。
+你可在 [此](https://github.com/jutkko/zfaff) 了解全部信息。本文档将持续更新。
 
 **问题：直接捐赠和向本基金捐赠有什么区别？**
 
