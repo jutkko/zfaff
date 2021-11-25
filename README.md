@@ -124,6 +124,12 @@ with the correct mindset and strategies, the amount of wealth one can accumulate
 astonishing. I don't expect to spend most of the capital when I am older. I could donate the
 money all at once, I could also start making a small influence now. I choose the latter.
 
+**Q: How can the fund sustain if it does not take any profit?**
+A careful observer would notice, that there is no way for the fund to earn profit for its own
+benefits. This is a relatively small fund at the moment, so at least for the first 5 years from
+launch the management overhead should be under control.
+
+
 **Q: Can there be new charity options, I know someone who needs help?**
 
 Just let me know. This is possible.
@@ -261,6 +267,10 @@ TODO
 **问题：余宙为什么想做这件事？**
 
 我相信复利的力量。即使人类的生命周期相对比较短暂，只要有正确的心态和策略，一个人能累积的财富数量也可以达到惊人的程度。我可以在年迈时支出大部分资金进行一次性大额捐助，但这并不是我理想的方式，我更希望从现在起就逐步发挥影响力，汇小溪成江海。
+
+**问题：这个基金不收取任何费用，它如何持续运营呢？**
+
+细致的同学会发现，本基金没有一种本身盈利的方式。它是一个相对来讲较小的规模，目前综合的管理的开支也较小。以目前 5 年来说，总体的情况可控。
 
 **问题：我可以选择其它慈善捐助对象/项目吗？**
 
