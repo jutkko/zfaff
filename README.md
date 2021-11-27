@@ -56,7 +56,7 @@ a withdrawal request, if
 in the fund is repaid. e.g., if one donated $100, and it becomes $90, one will get $90 in full.
 2. The annualised return exceeds 6%, one can take the principal (including the extra 6%) and 75%
 of the excess amount and 25% will be taken by the fund and donated to a selected charity
-institution. e.g., if one donated $100 at the beginning of the year and it becomes $126, if one
+institution. e.g., if one donated $100 at the beginning of the year and it becomes $126 and
 decides to withdraw, they will get $106 plus $15, the fund will donate $5.
 
 ## What is the strategy
