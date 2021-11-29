@@ -1,7 +1,7 @@
 # TSLA
 Since mid 2020, I spent more than 500 hours on learning about Tesla. This will 
-increase in the coming months and years. In order to have a more organised approach
-for getting the information, I will organise it a bit. Below is an incomplete list
+increase in the coming months and years. In order to keep the entropy of the information
+relatively low, I will organise it a bit. Below is an incomplete list
 of sources I use to build a high conviction for Tesla.
 
 ## Dave
