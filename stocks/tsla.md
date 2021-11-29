@@ -29,6 +29,7 @@ Perhaps I am watching Steven a bit too much lol.
 <img src="/figures/solvingthemoneyproblem.png" width="750">
 
 YouTube [Solving The Money Problem](https://www.youtube.com/c/SolvingTheMoneyProblem)
+
 Twitter [stevenmarkryan](https://twitter.com/stevenmarkryan)
 
 ## Rob Mauer
