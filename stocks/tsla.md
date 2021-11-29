@@ -1,6 +1,8 @@
 # TSLA
-I try to organise this section so one can find all the sources I use to build a
-high conviction for Tesla.
+Since mid 2020, I spent more than 500 hours on learning about Tesla. This will 
+increase in the coming months and years. In order to have a more organised approach
+for getting the information, I will organise it a bit. Below is an incomplete list
+of sources I use to build a high conviction for Tesla.
 
 ## Dave
 [Dave Lee on Investing](https://www.youtube.com/c/DaveLeeonInvesting)
