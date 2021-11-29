@@ -1,3 +1,5 @@
+<img src="/figures/tsla.png" width="750">
+
 # TSLA
 Since mid 2020, I spent more than 500 hours on learning about Tesla. This will 
 increase in the coming months and years. In order to keep the entropy of the information
