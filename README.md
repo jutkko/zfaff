@@ -76,7 +76,7 @@ I will hold each investment for at least few years, if possible I will continue 
 hold for longer. For now, the majority of the investment should go into equity market.
 
 ### Individual stocks analysis section
-TODO
+[TSLA](stocks/tsla.md)
 
 ## Fund Performance and current portfolio
 Here are some screenshots of my personal fund's performance since inception. However, one should not
