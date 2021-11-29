@@ -1,4 +1,4 @@
-<img src="/figures/tsla.png" width="500">
+<img src="/figures/tsla.png" width="320">
 
 # TSLA
 Since mid 2020, I spent more than 500 hours on learning about Tesla. This will 
