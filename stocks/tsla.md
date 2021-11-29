@@ -28,9 +28,17 @@ even when there is 0 gain or even negative profit for long periods of time.
 Perhaps I am watching Steven a bit too much lol.
 <img src="/figures/solvingthemoneyproblem.png" width="750">
 
-YouTube [Solving The Money Problem](https://www.youtube.com/c/SolvingTheMoneyProblem)
-
 Twitter [stevenmarkryan](https://twitter.com/stevenmarkryan)
 
+YouTube [Solving The Money Problem](https://www.youtube.com/c/SolvingTheMoneyProblem)
+
 ## Rob Mauer
-[Tesla Daily](https://www.youtube.com/c/TeslaDaily)
+Calm, soothing and friendly voice of Rob's is a good way to start your day (CST).
+Rob is a very objective and logical Tesla investor. A good escape from being too
+optimistic about the company's short term growth. 
+
+Podcast [Tesla Daily: Tesla News & Analysis](https://podcasts.apple.com/us/podcast/tesla-daily-tesla-news-analysis/id1273643094)
+
+Twitter [Rob Mauer](https://twitter.com/TeslaPodcast)
+
+YouTube [Tesla Daily](https://www.youtube.com/c/TeslaDaily)
