@@ -31,13 +31,17 @@ YouTube [Dave Lee on Investing](https://www.youtube.com/c/DaveLeeonInvesting)
 Lex is a Russian AI researcher at MIT. He also conducts interviews with the most
 influential people in tech industry.
 
-YouTube[Lex Fridman](https://www.youtube.com/c/lexfridman)
+YouTube [Lex Fridman](https://www.youtube.com/c/lexfridman)
 
 ## Wayne
-[Live of Wayne](https://www.youtube.com/channel/UCCL1wNSPW3gdA3teKa-RPYA)
+Random rish Shanghai dude.
+
+YouTube [Live of Wayne](https://www.youtube.com/channel/UCCL1wNSPW3gdA3teKa-RPYA)
 
 ## Sandy Monro
-[Monro Live](https://www.youtube.com/c/MunroLive)
+GOAT
+
+YouTube [Monro Live](https://www.youtube.com/c/MunroLive)
 
 ## Steven Mark Ryan
 One of my most watched channel. Very strange but eye catching colour scheme for
