@@ -6,14 +6,32 @@ increase in the coming months and years. In order to keep the entropy of the inf
 relatively low, I will organise it a bit. Below is an incomplete list
 of sources I use to build a high conviction for Tesla.
 
+## My TSLA Valuation Model
+WIP TODO
+
 ## Dave
-[Dave Lee on Investing](https://www.youtube.com/c/DaveLeeonInvesting)
+I liked this [video](https://youtu.be/dPQKku2_Lvg) from Dave. Not only he's an excellent
+investor, he goes out and talks about how he can help others. In fact this video
+made me really think how a small amount can have an outsized impact on others lives.
+
+He is also a Tesla investor, conducts interviews with other Tesla investors online.
+Sometimes he makes [interesting observations](https://twitter.com/heydave7/status/1460011655002271747?s=20)
+about small but important details.
+
+Did I say he is [funny](https://twitter.com/heydave7/status/1462657208399929347?s=20)?
+
+Twitter [Dave Lee](https://twitter.com/heydave7)
+
+YouTube [Dave Lee on Investing](https://www.youtube.com/c/DaveLeeonInvesting)
 
 ## Frank Peelen
 [Tesla Investor Blog](https://teslainvestor.blogspot.com/)
 
 ## Lex
-[Lex Fridman](https://www.youtube.com/c/lexfridman)
+Lex is a Russian AI researcher at MIT. He also conducts interviews with the most
+influential people in tech industry.
+
+YouTube[Lex Fridman](https://www.youtube.com/c/lexfridman)
 
 ## Wayne
 [Live of Wayne](https://www.youtube.com/channel/UCCL1wNSPW3gdA3teKa-RPYA)
@@ -22,7 +40,7 @@ of sources I use to build a high conviction for Tesla.
 [Monro Live](https://www.youtube.com/c/MunroLive)
 
 ## Steven Mark Ryan
-On of my most watched channel. Very strange but eye catching colour scheme for
+One of my most watched channel. Very strange but eye catching colour scheme for
 his video covers. I first came across Steven Mark Ryan when trying to find out
 if Tesla was a legit company. If you want to understand what he's saying, you
 might need to first watch some of the very old videos of his. I recommend to watch
