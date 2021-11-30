@@ -25,7 +25,13 @@ Twitter [Dave Lee](https://twitter.com/heydave7)
 YouTube [Dave Lee on Investing](https://www.youtube.com/c/DaveLeeonInvesting)
 
 ## Frank Peelen
-[Tesla Investor Blog](https://teslainvestor.blogspot.com/)
+Author of the best public articles written for Tesla stock. Logical and rigorous
+analysis for every aspect of the company. My favourite article is the first part
+of this [masterpiece](https://teslainvestor.blogspot.com/2020/05/my-tsla-investment-strategy.html).
+
+Blog [Tesla Investor Blog](https://teslainvestor.blogspot.com/)
+
+Twitter [Frank Peelin](https://twitter.com/FrankPeelen)
 
 ## Lex
 Lex is a Russian AI researcher at MIT. He also conducts interviews with the most
@@ -34,7 +40,7 @@ influential people in tech industry.
 YouTube [Lex Fridman](https://www.youtube.com/c/lexfridman)
 
 ## Wayne
-Random rish Shanghai dude.
+Random rich Shanghai dude.
 
 YouTube [Live of Wayne](https://www.youtube.com/channel/UCCL1wNSPW3gdA3teKa-RPYA)
 
@@ -43,7 +49,7 @@ GOAT
 
 YouTube [Monro Live](https://www.youtube.com/c/MunroLive)
 
-## Steven Mark Ryan
+## Steven Mark Ryan (Rated PG)
 One of my most watched channel. Very strange but eye catching colour scheme for
 his video covers. I first came across Steven Mark Ryan when trying to find out
 if Tesla was a legit company. If you want to understand what he's saying, you
