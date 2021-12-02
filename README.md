@@ -108,7 +108,7 @@ should help
 [List of donors](donors/list.md)
 
 ## How to donate
-Fill [this form](https://forms.gle/uTvPby5HWvSU38P77) please, then let me know. You know
+Fill [this form](https://forms.gle/4vB6WVKppnwE3hBc7) please, then let me know. You know
 how to find me. Before you make a donation, please have a video call with me to verify who you're
 dealing with to avoid unnecessary trouble.
 
@@ -257,7 +257,7 @@ please.
 
 ## 捐赠方式
 
-请 [填写表格](https://forms.gle/uTvPby5HWvSU38P77) 并与我本人联系。（你应该知道我的联系方式:p）注意：在进行捐赠前，为避免产生不必要的问题，请务必与我进行视频通话以确认对象。
+请 [填写表格](https://forms.gle/4vB6WVKppnwE3hBc7) 并与我本人联系。（你应该知道我的联系方式:p）注意：在进行捐赠前，为避免产生不必要的问题，请务必与我进行视频通话以确认对象。
 
 ## 常见问题及解答 
 **问题：谁可以捐赠？**
