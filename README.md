@@ -78,6 +78,9 @@ hold for longer. For now, the majority of the investment should go into equity m
 ### Individual stocks analysis section
 [TSLA](stocks/tsla.md)
 
+### Investment thoughts steams
+[Notes](notes/dump.md) 
+
 ## Fund Performance and current portfolio
 Here are some screenshots of my personal fund's performance since inception. However, one should not
 regard past performance as predictions for the future.

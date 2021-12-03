@@ -10,13 +10,15 @@ of sources I use to build a high conviction for Tesla.
 WIP TODO
 
 ## Dave
-I liked this [video](https://youtu.be/dPQKku2_Lvg) from Dave. Not only he's an excellent
+I liked this [video](https://youtu.be/dPQKku2_Lvg) from Dave. Not only he's an
 investor, he goes out and talks about how he can help others. In fact this video
 made me really think how a small amount can have an outsized impact on others lives.
 
-He is also a Tesla investor, conducts interviews with other Tesla investors online.
-Sometimes he makes [interesting observations](https://twitter.com/heydave7/status/1460011655002271747?s=20)
+Dave is an excellent investor, he conducts interviews with other Tesla investors
+online. Sometimes he makes [interesting observations](https://twitter.com/heydave7/status/1460011655002271747?s=20)
 about small but important details.
+
+To get an idea of compounding, check this video out from Dave, [the power of 72](https://youtu.be/nkOApFCFrOk).
 
 Did I say he is [funny](https://twitter.com/heydave7/status/1462657208399929347?s=20)?
 
