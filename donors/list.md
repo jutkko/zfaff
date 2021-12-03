@@ -14,3 +14,4 @@
 | CindyCheung  | $50   | 2021-11-30 |
 | pxh | $240  | 2021-12-2 |
 | moka | Not disclosed | 2021-12-2 |
+| YN | Not disclosed | 2021-12-2 |
