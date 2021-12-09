@@ -85,12 +85,12 @@ hold for longer. For now, the majority of the investment should go into equity m
 Here are some screenshots of my personal fund's performance since inception. However, one should not
 regard past performance as predictions for the future.
 
-<img src="/figures/performance.png" width="750">
+<img src="figures/performance.png" width="750">
 
 [Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=image)
 to view up to date performance diagram. 
 
-<img src="/figures/portfolio.png" width="750">
+<img src="figures/portfolio.png" width="750">
 
 [Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=442354662&format=image)
 to view up to date portfolio diagram. 
@@ -232,11 +232,11 @@ please.
 
 下方是我个人基金的一些业绩数据图（仅作参考，不作为未来趋势预测）。
 
-<img src="/figures/performance.png" width="750">
+<img src="figures/performance.png" width="750">
 
 [点此](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=76813952&format=image) 可浏览最新的业绩数据图表。
 
-<img src="/figures/portfolio.png" width="750">
+<img src="figures/portfolio.png" width="750">
 
 [点此](https://docs.google.com/spreadsheets/d/e/2PACX-1vSy__RipGJNCmJoybyh7sJ9AfyB04HMYZD0MCPIXaWAYxBVPghqQJfUkydCwoV00elSM2BD19n1m2Qz/pubchart?oid=442354662&format=image) 可浏览最新的投资组合图表。
 

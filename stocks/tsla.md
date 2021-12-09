@@ -1,4 +1,4 @@
-<img src="/figures/tsla.png" width="320">
+<img src="../figures/tsla.png" width="320">
 
 # TSLA
 Since mid 2020, I spent more than 500 hours on learning about Tesla. This will 
@@ -60,7 +60,7 @@ might need to first watch some of the very old videos of his. I recommend to wat
 even when there is 0 gain or even negative profit for long periods of time.
 
 Perhaps I am watching Steven a bit too much lol.
-<img src="/figures/solvingthemoneyproblem.png" width="750">
+<img src="../figures/solvingthemoneyproblem.png" width="750">
 
 Twitter [stevenmarkryan](https://twitter.com/stevenmarkryan)
 
