@@ -78,7 +78,7 @@ hold for longer. For now, the majority of the investment should go into equity m
 ### Individual stocks analysis section
 [TSLA](stocks/tsla.md)
 
-### Investment thoughts steams
+### Investment thought streams
 [Notes](notes/dump.md) 
 
 ## Fund Performance and current portfolio
@@ -227,6 +227,9 @@ please.
 ### 个股分析板块
 
 [TSLA](stocks/tsla.md)
+
+### 投资随笔
+[笔记](notes/dump.md) 
 
 ## 基金业绩表现和当前投资组合
 
