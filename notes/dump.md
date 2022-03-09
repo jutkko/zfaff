@@ -1,3 +1,21 @@
+# 2022-3-9
+
+## 💤 Being lazy about updates
+
+It's been a while since my last update. But that doesn't mean I wasn't doing much! I cannot
+emphasise enough that the past 3 months have been crazy! I have been mainly focusing on getting
+TSLA shares for a cheaper price. The fluctuation of the common stock price was large, from
+$1200+ to almost less than $700, not to mention at points it was cheaper than my average holding
+price. It was a rare opportunity to be able to harvest some TSLA shares. For the first time, I
+bought a 2024 option call on margin.
+
+The macro environment for the market hasn't been great, with the investors expecting the interest
+rate going up, outbreak of war between Ukraine and Russia and continued uncertainty in HKEX for
+Chinese local companies.
+
+However I don't think the fundamentals has changed at all for any of the companies I hold. Which
+means, had I had more capital to allocate, I would continue to buy.
+
 # 2021-12-10
 
 ## 🤑 Renting out a Tesla (¥9k/month)
