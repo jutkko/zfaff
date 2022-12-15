@@ -28,8 +28,8 @@
 
 - 捐赠 Starlink 去贫穷没有网络的地方
 - Khan Academy
-- What Dave Lee is doing [here]([url](https://youtu.be/JcGEe9YzG14))
-- [Donate books to Africa]([url](https://youtu.be/EHWQs2v_NS8))
+- What Dave Lee is doing [here](https://youtu.be/JcGEe9YzG14)
+- [Donate books to Africa](https://youtu.be/EHWQs2v_NS8)
 
 于意大利。挖了那么多坑那么不介意再挖一个，法国要在本周天在卡塔尔夺冠咯。
 
